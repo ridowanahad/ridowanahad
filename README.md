@@ -1,15 +1,24 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
-<h3 align="center">A passionate front-end developer from Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
 
+###
 
+:man_technologist: About Me:
+
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - 🔭 I’m currently working on **Front-end development**
+
+- 💻: In my free time, I read blogs
 
 - 🌱 I’m currently learning **React**
 

@@ -7,7 +7,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
+  
   
   <a href="https://www.facebook.com/RidowanAhad6">
     <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

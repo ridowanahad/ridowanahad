@@ -39,6 +39,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <h3 align="left"> 🛠️ Languages and Tools : </h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ridowanahad&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?user=ridowanahad&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight" />
 </p>

@@ -24,10 +24,11 @@
 
 ---
 
-<div>
+<div align="center">
 👨‍💻: About Me:
 </div>
 
+<div align="center">
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - 🔭 I’m currently working on **React Js**
@@ -36,14 +37,27 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - ⚡ Fun fact **I think i am talkative**
 
+  </div>
 
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
 
-<h3 align="left"> 🛠️ Languages and Tools : </h3>
+<h3 align="center"> 🛠️ Languages and Tools : </h3>
 <p align="center">
-<p><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ridowanahad" /></p>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight" />
+<p><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ridowanahad" /></p>
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight" />
 </p>
+
+
+<div>
+
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/html-%2300f.svg?style=for-the-badge&logo=html&logoColor=#008000" height="25"/>
+  <img src="https://img.shields.io/badge/css-%2300f.svg?style=for-the-badge&logo=css&logoColor=#008000" height="25"/>
+  
+  
+</div>

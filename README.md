@@ -17,7 +17,7 @@
 <h1 align="center"> Assalamualaikum 😊 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 ###
@@ -46,6 +46,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&bg_color=152238&text_color="#94C973" alt="ridowanahad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridowanahad&show_icons=true&locale=en&bg_color=152238&text_color="#94C973"" alt="ridowanahad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridowanahad&show_icons=true&locale=en&bg_color=152238&text_color="#94C973" alt="ridowanahad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&&bg_color=152238&text_color="#94C973"" alt="ridowanahad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&&bg_color=152238&text_color="#94C973" alt="ridowanahad" /></p>

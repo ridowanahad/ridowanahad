@@ -24,6 +24,10 @@
 
 ---
 
+<div align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+</div>
+
 👨‍💻: About Me:
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
@@ -35,9 +39,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - ⚡ Fun fact **I think i am talkative**
 
 
-<div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-</div>
+
 
 
 <h3 align="left"> 🛠️ Languages and Tools : </h3>

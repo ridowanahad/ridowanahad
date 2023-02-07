@@ -28,7 +28,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
-<div margin-bottom: 40px>
+<div style="margin-bottom: 40px">
 👨‍💻: About Me:
 </div>
 

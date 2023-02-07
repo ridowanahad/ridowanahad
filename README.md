@@ -3,18 +3,16 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ridowan-ahad-b3301a169/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
+  
+  <a href="https://www.facebook.com/RidowanAhad6">
+    <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
 
 
 <div align="center">

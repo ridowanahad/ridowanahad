@@ -17,9 +17,7 @@
 <h2 align="center"> Assalamualaikum 😊 </h2>
 <p align="center"> I'm Ahad, I am a passionate learner. I am constantly developing my skills and grow professionally. I love to chat about tech, leave me a message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx" target="_blank"> 📧</a></p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
+
 
 ###
 
@@ -35,6 +33,11 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 💻 In my free time, I read blogs
 
 - ⚡ Fun fact **I think i am talkative**
+
+
+<div align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+</div>
 
 
 <h3 align="left"> 🛠️ Languages and Tools : </h3>

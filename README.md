@@ -2,11 +2,19 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
-
-<img align="right" width="500" margin-top="20px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div> 
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
+
 
 ###
 

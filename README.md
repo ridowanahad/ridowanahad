@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahad</h1>
+
+
+<h1 align="center">
+  <img align="center" width="40px" height="40px" src="https://cdn.techinasia.com/wp-content/uploads/2021/09/1632477890_robot.gif" >
+  
+  Hi 👋, I'm Ahad</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>

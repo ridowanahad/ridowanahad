@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
 
 <h2 align="center"> Assalamualaikum 😊 </h2>
-<p align="center"> I'm Ahad, I am a passionate learner. I am constantly developing my skills and grow professionally. I love to chat about tech, leave me a message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx"> 📧</a></p>
+<p align="center"> I'm Ahad, I am a passionate learner. I am constantly developing my skills and grow professionally. I love to chat about tech, leave me a message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx" target="_blank"> 📧</a></p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>

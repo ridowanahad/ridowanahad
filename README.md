@@ -28,9 +28,9 @@
 </div>
 
 <div align="left">
-I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p align="left">  I am a passionate learner. I am constantly developing my skills and growing professionally. I love to chat about tech, leave me a message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx" target="_blank"> 📧</a></p>
+I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p align="left">  I am a passionate learner. I am constantly developing my skills and growing professionally. I love to chat about tech, leave me a <br /> message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx" target="_blank"> 📧</a></p>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 Currently I'm working on **React Js**
 
 - 💻 In my free time, I read blogs
 

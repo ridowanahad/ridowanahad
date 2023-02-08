@@ -21,8 +21,6 @@
 
 
 
----
-
   <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 
 <div align="left">
@@ -40,6 +38,7 @@ I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMp
 
   </div>
 
+<br />
 
 <h3 align="left"> 🛠️ Languages and Tools : </h3>
 

@@ -15,7 +15,7 @@
 <p align="center" padding="5px"> <img src="https://komarev.com/ghpvc/?username=ridowanahad&label=Profile%20views&color=0e75b6&style=flat" alt="ridowanahad" /> </p>
 
 <h2 align="center"> Assalamualaikum 😊 </h2>
-<p align="center"> I'm Ahad, I am a passionate learner. I am constantly developing my skills and growing professionally. I love to chat about tech, leave me a message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx" target="_blank"> 📧</a></p>
+
 
 
 
@@ -24,12 +24,14 @@
 
 ---
 
-<div align="center">
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="350"/>
+
+<div align="left">
 👨‍💻: About Me:
 </div>
 
-<div align="center">
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+<div align="left">
+I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p align="left">  I am a passionate learner. I am constantly developing my skills and growing professionally. I love to chat about tech, leave me a message here <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxkmHjbVtGthHPdwrZJCPJvFQjJqQFvsCWljpdwkWncpzPFhVwWzgkRrwNhrtKZwLmvjx" target="_blank"> 📧</a></p>
 
 - 🔭 I’m currently working on **React Js**
 
@@ -38,10 +40,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - ⚡ Fun fact **I think i am talkative**
 
   </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="350"/>
-</div>
 
 
 <h3 align="center"> 🛠️ Languages and Tools : </h3>

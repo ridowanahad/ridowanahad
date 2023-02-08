@@ -56,8 +56,10 @@ I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/html-%2300f.svg?style=for-the-badge&logo=html&logoColor=#008000" height="25"/>
-  <img src="https://img.shields.io/badge/css-%2300f.svg?style=for-the-badge&logo=css&logoColor=#008000" height="25"/>
+  <img src="https://img.shields.io/badge/html-%2300f.svg?style=for-the-badge&logo=html&logoColor=#454B1B" height="25"/>
+  <img src="https://img.shields.io/badge/css-%2300f.svg?style=for-the-badge&logo=css&logoColor=#454B1B" height="25"/>
+  <img src="https://img.shields.io/badge/c#-%2300f.svg?style=for-the-badge&logo=c#&logoColor=#FF5733" height="25"/>
+  
   
   
 </div>

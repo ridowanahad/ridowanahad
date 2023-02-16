@@ -21,7 +21,10 @@
 
 
 
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhjZDk2ZGFlNjI4N2ViOTA0OGI0MTNhYzZlOTk2NmVjZTUyYzZiNCZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="400" height="400"/>
+  
+ <!-- programmer photo //https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif 
+ https://media3.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif?cid=ecf05e47nfexmj46f164zi1egw3x2q597iphg34ptd9yvqi3&rid=giphy.gif&ct=s-->
 
 <div align="left">
 👨‍💻: About Me:
@@ -43,6 +46,7 @@ I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMp
 <h3 align="left"> 🛠️ Languages and Tools : </h3>
 
 <p align="left" ><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ridowanahad" /></p>
+
   
 <p align="left"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight" />
 </p>

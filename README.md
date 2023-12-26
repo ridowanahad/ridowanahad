@@ -45,10 +45,10 @@ I'm Ahad, a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <h3 align="left"> 🛠️ Languages and Tools : </h3>
 
-<p align="left" ><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ridowanahad" /></p>
+<p align="left"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ridowanahad"/></p>
 
   
-<p align="left"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight" />
+<p align="left"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight"/>
 </p>
 
 
